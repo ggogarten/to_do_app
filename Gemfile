@@ -13,6 +13,7 @@ gem 'rails', '4.2.5.1'
 #   gem 'pg'
 # end
 
+gem 'pg'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
